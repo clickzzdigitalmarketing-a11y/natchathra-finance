@@ -126,7 +126,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenApply }) => {
             >
               <div className="relative group">
                 <img
-                  src="/assets/clean/badge_home_loan.png"
+                  src="/clean/badge_home_loan.png"
                   alt="Home Loan"
                   className="w-full h-auto drop-shadow-xl filter group-hover:drop-shadow-2xl transition-all"
                   onError={(e) => {
@@ -144,7 +144,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenApply }) => {
               title="Apply To Grow"
             >
               <img
-                src="/assets/clean/panel_apply_to_grow.png"
+                src="/clean/panel_apply_to_grow.png"
                 alt="Apply to Grow"
                 className="w-full h-auto drop-shadow-xl"
                 onError={(e) => {
@@ -160,7 +160,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenApply }) => {
               title="Two Wheeler Refinance"
             >
               <img
-                src="/assets/clean/badge_two_wheeler.png"
+                src="/clean/badge_two_wheeler.png"
                 alt="Two Wheeler Refinance"
                 className="w-full h-auto drop-shadow-xl hover:drop-shadow-2xl transition-all"
                 onError={(e) => {
@@ -176,7 +176,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenApply }) => {
               title="Daily Finance"
             >
               <img
-                src="/assets/clean/badge_daily_finance.png"
+                src="/clean/badge_daily_finance.png"
                 alt="Daily Finance"
                 className="w-full h-auto drop-shadow-xl hover:drop-shadow-2xl transition-all"
                 onError={(e) => {
@@ -192,7 +192,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenApply }) => {
               title="Kulu Loan Magalir SHG"
             >
               <img
-                src="/assets/clean/badge_kulu_loan.png"
+                src="/clean/badge_kulu_loan.png"
                 alt="Kulu Loan Magalir SHG"
                 className="w-full h-auto drop-shadow-xl hover:drop-shadow-2xl transition-all"
                 onError={(e) => {
