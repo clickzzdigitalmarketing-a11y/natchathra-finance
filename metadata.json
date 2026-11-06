@@ -1,0 +1,6 @@
+{
+  "name": "Natchathra Finance",
+  "description": "Your Financial Goals. Our Commitment. Fast, transparent personal, business, home, two-wheeler, and SHG Kulu loans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
