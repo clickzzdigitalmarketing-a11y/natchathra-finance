@@ -107,7 +107,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenApply }) => {
             >
               <div className="relative group">
                 <img
-                  src="/assets/clean/badge_personal_loan.png"
+                  src="/clean/badge_personal_loan.png"
                   alt="Personal Loan"
                   className="w-full h-auto drop-shadow-xl filter group-hover:drop-shadow-2xl transition-all"
                   onError={(e) => {
